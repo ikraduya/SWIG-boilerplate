@@ -1,6 +1,7 @@
 /* File : example.cpp */
 
-#include <time.h>
+#include "example.hpp"
+
 double My_variable = 3.0;
 
 int fact(int n) {

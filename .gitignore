@@ -180,5 +180,5 @@ cython_debug/
 
 
 # Custom Made
-*.py
 *_wrap.cpp
+python/PYTHONPATH.env
